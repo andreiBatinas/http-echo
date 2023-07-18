@@ -1,0 +1,13 @@
+{
+  "debug": true,
+  "name": "web-service",
+  "http": {
+    "port": 8080
+  },
+  "redis": {
+    "port": 6379
+  },
+  "rpc": {
+    "url": "https://mainnet.infura.io/v3/rpckey"
+  }
+}
